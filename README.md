@@ -1,5 +1,7 @@
 # export_trailhead_badge_ranking.sh
 
+**This batch is obsolete and doesn't work anymore.**
+
 ## Summary
 
 The batch scrapes data from Trailhead profile pages and save `result.csv`.
